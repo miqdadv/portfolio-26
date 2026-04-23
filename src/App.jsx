@@ -14,10 +14,7 @@ import { MultiStepLoader } from "./components/MultiStepLoader";
 const loadingStates = [
   { text: "Initializing Portfolio..." },
   { text: "Loading Components..." },
-  { text: "Rendering UI..." },
-  { text: "Preparing Projects..." },
-  { text: "Optimizing Experience..." },
-  { text: "Almost Ready..." },
+  { text: "Almost there..." },
   { text: "Welcome to Miqdad's Portfolio 🚀" },
 ];
 
